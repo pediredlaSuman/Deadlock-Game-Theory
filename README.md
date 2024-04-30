@@ -16,15 +16,15 @@
 ### Game Representations
 ---
 #### **Players**:who are decision makers
-People? Governments? Companies? Somebody employed by a Company?
+- People? Governments? Companies? Somebody employed by a Company?
 
 #### **Actions**:what can the players do?
-They can cooperate or defeat or exit game
+- They can cooperate or defeat or exit game
 #### **Payoffs**:what motivates players?
-Do they care about some profit? Do they care about other players?
+- Do they care about some profit? Do they care about other players?
 #### **General Deadlock payoff matrix**
-Lists what payoffs players get as a function of their actions.
-In the deadlock game example, two players face a situation where cooperation yields a higher payoff for both, but defection is the dominant strategy due to the risk of being exploited by the opponent.
+- Lists what payoffs players get as a function of their actions.
+- In the deadlock game example, two players face a situation where cooperation yields a higher payoff for both, but defection is the dominant strategy due to the risk of being exploited by the opponent.
 
 |            | Cooperate | Defect    |
 |------------|-----------|-----------|
