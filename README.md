@@ -2,17 +2,25 @@
 ---
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
 
----
 ### Table of Contents
-1. [Game Representations](#game-Representations)
-2. [Deadlock GameOverview](#deadlock-GameOverview)
-3. [Principles Used](#principles-Used)
-4. [Framework](#framework)
-5. [Strategies](#strategies)
-6. [Results](#results)
-7. [Real life applications](#real-life-applications)
+1.[Introduction](#introduction)
+2. [Game Representations](#game-Representations)
+3. [Deadlock GameOverview](#deadlock-GameOverview)
+4. [Principles Used](#principles-Used)
+5. [Framework](#framework)
+6. [Strategies](#strategies)
+7. [Results](#results)
+8. [Real life applications](#real-life-applications)
 
 ---
+### Introduction
+
+- Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
+- Our research explores these dynamics by applying the ideas of strategic interactions and logical decision-making to investigate the best possible solutions.
+- To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
+  
+---
+
 ### Game Representations
 
 #### **Players**:who are decision makers
@@ -131,54 +139,21 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 ---
 ### Results
 
+1. **Effective Strategies**: Through the examination of various strategies in game theory, it was observed that strategies like Tit for Tat and its variations, along with the Sample Strategy, demonstrate a well-balanced mix of cooperation and retaliation, promoting transparency in decision-making.
+![rest](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/93fca77b-99a2-4ff2-bb19-d8e95cdcc686)
+2. **Strategic Complexity**: Strategies such as the Graaskamp Strategy and the Joss Sneaky Strategy introduce strategic complexity and unpredictability by incorporating periodic betrayals and unpredictable actions, respectively.
 
+3. **Optimal Strategies**: In complex game contexts, strategies like Tit for Tat and its generous form are frequently regarded as optimal due to their combination of forgiveness and reciprocity. The Friedman Strategy and the Sample Strategy closely follow, providing clear and dependable procedures.
 
+4. **Real-Life Applications**: Game theory insights extend beyond gaming scenarios to real-life situations, emphasizing the importance of collaboration, retribution, and forgiveness in decision-making processes. Understanding these strategic intricacies can lead to well-informed decisions and promote win-win outcomes in various domains.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a id="introduction"></a>
-### Introduction
----
-Introduction:
-- Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
-- Our research explores these dynamics by applying the ideas of strategic interactions and logical decision-making to investigate the best possible solutions.
-- To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
-
-
+5. **Cooperation in Evolution and Politics**: Cooperation has been shown to offer evolutionary advantages and promote win-win results, both in the animal kingdom and in international politics. Examples from meerkat behavior to diplomatic engagements highlight the significance of collaboration, trust-building, and open communication in achieving peaceful outcomes and ensuring societal prosperity.
 
   
 ![image](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/e9c9db00-bcce-47a9-a801-971253712b72)
 
-- Our analysis's findings shed light on practical approaches to decision-making and conflict resolution in impasse situations.
-- Applications in real life include deciphering animal behavior's social dynamics and historical occurrences such as the Soviet satellite mishap.
-- 
-![con1](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/6d085d16-0914-41a6-b116-6da80106f9bb)
 
-- In the end, becoming proficient in deadlock game theory gives people the tools they need to navigate challenging situations and come out on top.
-Winning Strategy order:
 
-![rest](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/93fca77b-99a2-4ff2-bb19-d8e95cdcc686)
 
 here we uploaded 4 colab files the order of exceution of file is:
 
