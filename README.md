@@ -2,7 +2,7 @@
 ### Deadlock Game Theory
 ---
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
-
+---
 ### Table of Contents
 1. [Game Representations](#game-Representations)
 2. [Deadlock GameOverview](#deadlock-GameOverview)
@@ -12,7 +12,7 @@
 6. [Results](#results)
 7. [Real life applications](#real-life-applications)
 
-
+---
 ### Game Representations
 ---
 #### **Players**:who are decision makers
@@ -35,7 +35,7 @@ In this matrix:
 - If both players cooperate, they each receive a payoff of 2.
 - If one player cooperates while the other defects, the cooperator receives a payoff of 0, and the defector receives a payoff of 1.
 - If both players defect, they each receive a payoff of 0.
-
+---
 ### Deadlock Game Overview
 ---
 #### Key Points:
@@ -44,7 +44,7 @@ In this matrix:
 - **Total Strategies:** 4
 - **Sequential Game:** No
 - **Zero-Sum Game:** No
-
+---
 ### Principles Used 
 ---
 #### 1. Rational Decision Making
@@ -58,8 +58,8 @@ Nash equilibrium is a key concept in deadlock game theory, representing a stable
 
 #### 4. Pay-Off Matrix
 The pay-off matrix is a fundamental tool in deadlock game theory used to represent the possible outcomes and payoffs associated with each combination of strategies chosen by the players. It provides a systematic way to analyze strategic interactions and evaluate the consequences of different decision-making scenarios. The pay-off matrix helps players assess the benefits and risks of their strategic choices.
-
-### Principles Used in Deadlock Game Theory
+---
+### Principles Used 
 
 #### Rational Decision-Making:
 Is fundamental in game theory, emphasizing selfish behavior to maximize utility. It clarifies strategic reasoning in impasse scenarios, aiding in anticipating and reacting to actions.
@@ -80,7 +80,7 @@ Play crucial roles in resolving deadlocks. Cooperative strategies entail collabo
 Are essential for resolving deadlocks, allowing parties to reach agreements. Modeled by game theory, they consider variables like bargaining power and commitment tactics. Understanding these dynamics promotes collaboration and win-win solutions.
 
 
-
+---
 ### Strategies Used in Deadlock Game Theory
 ---
 #### Sample Strategy:
