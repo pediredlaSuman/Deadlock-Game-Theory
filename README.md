@@ -4,15 +4,16 @@
 
 
 ### Table of Contents
-1.[Introduction](#introduction)
+1. [Introduction](#introduction)
 2. [Game Representations](#gameRepresentations)
-3. [Deadlock GameOverview](#deadlockGameOverview)
+3. [Deadlock Game Overview](#deadlockGameOverview)
 4. [Principles Used](#principlesUsed)
 5. [Framework](#framework)
 6. [Strategies](#strategies)
 7. [Results](#results)
 8. [Real life applications](#reallifeapplications)
-9.[Google Colab Files](#googel-colab-files)
+9. [Google Colab Files](#google-colab-files)
+
 
 ---
 ### Introduction
