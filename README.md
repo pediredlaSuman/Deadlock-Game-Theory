@@ -1,11 +1,21 @@
+
+### Deadlock Game Theory
+---
+This is the Deadlock Game Theory to my project
+
+Deadlock Game Theory:
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
 
 
-
-
 ### Table of Contents
-1. [Introduction](#introduction)
-2. [Installation](#installation)
+1. [Game representations](#game-representations)
+2. [Deadlock game](#deadlock-game)
+3. [Principles used](#principles-used)
+4. [Framework](#framework)
+5. [Strategies](#strategies)
+6. [Results](#results)
+7. [Real life applications](#real-life-applications)
+
 
 <a id="introduction"></a>
 ### Introduction
