@@ -13,9 +13,29 @@
 7. [Real life applications](#real-life-applications)
 
 
-###Game Representations
+### Game Representations
 ---
-####**Players**:who are decision makers
+#### **Players**:who are decision makers
+-People? Governments? Companies? Somebody employed by a Company?
+
+#### **Actions**:what can the players do?
+-They can cooperate or defeat or exit game
+#### **Payoffs**:what motivates players?
+-Do they care about some profit? Do they care about other players?
+#### **General Deadlock payoff matrix**
+-Lists what payoffs players get as a function of their actions.
+-In the deadlock game example, two players face a situation where cooperation yields a higher payoff for both, but defection is the dominant strategy due to the risk of being exploited by the opponent.
+
+|            | Cooperate | Defect    |
+|------------|-----------|-----------|
+| Cooperate  | 2, 2      | 0, 0      |
+| Defect     | 0, 0      | 1, 1      |
+
+In this matrix:
+- If both players cooperate, they each receive a payoff of 2.
+- If one player cooperates while the other defects, the cooperator receives a payoff of 0, and the defector receives a payoff of 1.
+- If both players defect, they each receive a payoff of 0.
+
 
 
 
