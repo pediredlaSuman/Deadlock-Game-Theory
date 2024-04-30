@@ -1,6 +1,7 @@
 ### Deadlock Game Theory
 ---
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
+
 ---
 ### Table of Contents
 1. [Game Representations](#game-Representations)
@@ -57,6 +58,7 @@ Nash equilibrium is a key concept in deadlock game theory, representing a stable
 
 #### 4. Pay-Off Matrix
 The pay-off matrix is a fundamental tool in deadlock game theory used to represent the possible outcomes and payoffs associated with each combination of strategies chosen by the players. It provides a systematic way to analyze strategic interactions and evaluate the consequences of different decision-making scenarios. The pay-off matrix helps players assess the benefits and risks of their strategic choices.
+
 ---
 ### Principles Used 
 
