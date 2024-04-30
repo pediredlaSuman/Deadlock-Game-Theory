@@ -5,8 +5,8 @@
 
 ### Table of Contents
 1. [Game Representations](#game-Representations)
-2. [Deadlock game](#deadlock-game)
-3. [Principles used](#principles-used)
+2. [Deadlock GameOverview](#deadlock-GameOverview)
+3. [Principles Used](#principles-Used)
 4. [Framework](#framework)
 5. [Strategies](#strategies)
 6. [Results](#results)
@@ -35,6 +35,115 @@ In this matrix:
 - If both players cooperate, they each receive a payoff of 2.
 - If one player cooperates while the other defects, the cooperator receives a payoff of 0, and the defector receives a payoff of 1.
 - If both players defect, they each receive a payoff of 0.
+
+### Deadlock Game Overview
+---
+#### Key Points:
+- **Number of Players:** 2
+- **Strategies per Player:** 2
+- **Total Strategies:** 4
+- **Sequential Game:** No
+- **Zero-Sum Game:** No
+
+### Principles Used 
+---
+#### 1. Rational Decision Making
+Rational decision making assumes that players in the deadlock game act in their own self-interest, aiming to maximize their expected payoff. Each player evaluates the available strategies and chooses the one that offers the highest payoff based on their preferences and beliefs about the other player's behavior.
+
+#### 2. Strategic Interactions
+Deadlock game theory involves strategic interactions between two or more rational decision-makers. Each player's choice of strategy depends not only on their own preferences but also on their anticipation of the other player's actions. Players strategize by considering how their choices may influence the outcomes and payoffs of the game.
+
+#### 3. Nash Equilibrium
+Nash equilibrium is a key concept in deadlock game theory, representing a stable state where no player has an incentive to unilaterally deviate from their chosen strategy. In a Nash equilibrium, each player's strategy is optimal given the strategies chosen by the other players. The deadlock game may have multiple Nash equilibria, and identifying them helps predict the likely outcomes of strategic interactions.
+
+#### 4. Pay-Off Matrix
+The pay-off matrix is a fundamental tool in deadlock game theory used to represent the possible outcomes and payoffs associated with each combination of strategies chosen by the players. It provides a systematic way to analyze strategic interactions and evaluate the consequences of different decision-making scenarios. The pay-off matrix helps players assess the benefits and risks of their strategic choices.
+
+### Principles Used in Deadlock Game Theory
+
+#### Rational Decision-Making:
+Is fundamental in game theory, emphasizing selfish behavior to maximize utility. It clarifies strategic reasoning in impasse scenarios, aiding in anticipating and reacting to actions.
+
+#### Strategic Interactions:
+Are central in deadlock situations, modeling complex relationships. Game theory helps understand the strategic dynamics at work and predict outcomes to create workable plans.
+
+#### Payoff Matrix:
+Provides insights into possible results, quantifying payoffs for decision-making. It offers a methodical approach to evaluate outcomes and predict the conclusion of impasses.
+
+#### Nash Equilibrium:
+Denotes stable situations where no party has an incentive to change course unilaterally. Identifying Nash equilibria offers insights into possible outcomes and decision-making dynamics.
+
+#### Cooperative and Non-cooperative Strategies:
+Play crucial roles in resolving deadlocks. Cooperative strategies entail collaboration for win-win results, while non-cooperative techniques involve autonomous decision-making. Understanding their dynamics affects the chances of coming to agreements.
+
+#### Bargaining and Negotiation:
+Are essential for resolving deadlocks, allowing parties to reach agreements. Modeled by game theory, they consider variables like bargaining power and commitment tactics. Understanding these dynamics promotes collaboration and win-win solutions.
+
+
+
+### Strategies Used in Deadlock Game Theory
+---
+#### Sample Strategy:
+- Starts cooperatively to promote cooperation.
+- Retaliates against defection but resumes collaboration for cooperation.
+- Rewards cooperative behavior and penalizes defection.
+- Demonstrates repercussions of non-cooperation through retribution.
+- Adjusts between cooperation and retaliation as needed.
+![samp3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/15582da4-b04b-41c8-b2c3-85b8e75837ea)
+
+
+#### Friedman Strategy:
+- Starts with collaboration and mirrors opponent's move.
+- Rewards continuous cooperation.
+- Outlines penalties for malfunctioning as retaliation against defection.
+- Encourages collaboration and trust by mirroring opponent's actions.
+- Responds predictably to opponent's actions.
+![fred3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/7e074639-3f37-4159-aa28-b2241b7f4ce1)
+
+#### Tit for Tat Strategy:
+- Copies adversary's prior action for reciprocity and trust.
+- Acts cooperatively in return for cooperation.
+- Mirrors opponent's move in retaliation to defection.
+- Adjusts behavior to preserve stability and balance.
+![tit](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/a9a46655-047d-42a0-b385-9fff35859de1)
+
+#### Joss Sneaky Strategy:
+- Cooperates initially, then mimics opponent's move with slight misprediction.
+- Gains strategic advantage by creating ambiguity and confusion.
+- Modifies behavior to take advantage of opponent's actions.
+- Increases unpredictability through deceit.
+![joss3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/009e9d6b-92f4-4a55-b925-189a779c0d97)
+
+#### Graaskamp Strategy:
+- Starts with cooperation to build trust.
+- Defects periodically to increase profit.
+- Uses hybrid defection and cooperation for tactical advantage.
+- Modifies tactics based on player reactions.
+![grass3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/a9f8d19e-f7f2-4282-b6b9-7de503b4b193)
+
+#### Tester Strategy:
+- Cooperates initially to establish rapport.
+- Modifies plan based on opponent's actions.
+- Reacts with cooperation or defection based on opponent's behavior.
+- Adjusts defection timing for maximum reward.
+![tester3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/eb82c2d4-7d3e-4bee-afcb-11d3732242e6)
+
+#### Always Cooperative Strategy:
+- Cooperates consistently to create cooperative atmosphere.
+- Puts collaboration ahead of revenge.
+- Establishes connection and confidence with opponent.
+![ac3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/fb9526a5-2017-45be-83fd-5b76b8740158)
+
+#### Generous Tit for Tat Strategy:
+- Encourages cooperation by copying opponent's move.
+- Acts cooperatively toward opponent.
+- Forgives opponent's sporadic defections.
+- Strikes balance between forgiveness and reciprocity.
+![geene3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/38b10a9c-f86d-4ea6-a02c-25eae042c038)
+
+
+### Results
+---
 
 
 
@@ -70,11 +179,7 @@ Introduction:
 - To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
 
 
-<a id="installation"></a>
-Installation
-  Strategies used here are: Tit for Tat Strategy, Generous Tit for Tat, Sample Strategy, Friedman Strategy, Grasskamp Strategy, Joss Sneaky Strategy, Always Cooperative , Tester Strategy
-  
-  Prinicples:Rational Decision-Makin, Strategic Interactions, Payoff Matrix, Nash Equilibrium, Cooperative and non-cooperative strategies, Bargaining and Negotiation
+
   
 ![image](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/e9c9db00-bcce-47a9-a801-971253712b72)
 
