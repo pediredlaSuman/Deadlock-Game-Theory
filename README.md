@@ -165,6 +165,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Cooperates consistently to create cooperative atmosphere.
 - Puts collaboration ahead of revenge.
 - Establishes connection and confidence with opponent.
+
+  
 ![ac3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/fb9526a5-2017-45be-83fd-5b76b8740158)
 
 #### Generous Tit for Tat Strategy:
