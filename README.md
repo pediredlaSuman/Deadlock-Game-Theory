@@ -17,9 +17,17 @@
 ---
 ### Introduction
 
-- Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
-- Our research explores these dynamics by applying the ideas of strategic interactions and logical decision-making to investigate the best possible solutions.
-- To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
+#### **Conceptual Framework**: Explain deadlock games as situations where cooperation clashes with self-interest, highlighting their complexity compared to zero-sum games.
+
+#### **Strategic Dynamics**: Explore the dynamics of deadlock games, including the two-player structure, multiple options .
+
+#### **Principles** : Usage of Rational Decision Making Principle,Strategic Interactions Principle , Pay-Off Principle , Bargaining and Negotiation Principle .
+
+#### **Resolution Strategies**: Discuss strategies like appreciative moves, process moves, and power moves used to break deadlock situations and promote productive collaboration.
+
+#### **Implications and Goals**: Highlight the broader implications of deadlock game theory for decision-making, societal dynamics, economic behavior, and conflict resolution.
+
+
   
 ---
 
