@@ -6,7 +6,7 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [GameRepresentations](#gameRepresentations)
-3. [Deadlock Game Overview](#deadlockGameOverview)
+3. [Deadlock Game Overview](#dead-lock-GameOverview)
 4. [Principles](#principles)
 5. [Framework](#framework)
 6. [Strategies](#strategies)
