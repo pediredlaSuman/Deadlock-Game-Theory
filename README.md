@@ -2,15 +2,17 @@
 ---
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
 
+
 ### Table of Contents
 1.[Introduction](#introduction)
-2. [Game Representations](#game-Representations)
-3. [Deadlock GameOverview](#deadlock-GameOverview)
-4. [Principles Used](#principles-Used)
+2. [Game Representations](#gameRepresentations)
+3. [Deadlock GameOverview](#deadlockGameOverview)
+4. [Principles Used](#principlesUsed)
 5. [Framework](#framework)
 6. [Strategies](#strategies)
 7. [Results](#results)
-8. [Real life applications](#real-life-applications)
+8. [Real life applications](#reallifeapplications)
+9.[Google Colab Files](#googel-colab-files)
 
 ---
 ### Introduction
@@ -140,7 +142,9 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 ### Results
 
 1. **Effective Strategies**: Through the examination of various strategies in game theory, it was observed that strategies like Tit for Tat and its variations, along with the Sample Strategy, demonstrate a well-balanced mix of cooperation and retaliation, promoting transparency in decision-making.
+
 ![rest](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/93fca77b-99a2-4ff2-bb19-d8e95cdcc686)
+
 2. **Strategic Complexity**: Strategies such as the Graaskamp Strategy and the Joss Sneaky Strategy introduce strategic complexity and unpredictability by incorporating periodic betrayals and unpredictable actions, respectively.
 
 3. **Optimal Strategies**: In complex game contexts, strategies like Tit for Tat and its generous form are frequently regarded as optimal due to their combination of forgiveness and reciprocity. The Friedman Strategy and the Sample Strategy closely follow, providing clear and dependable procedures.
@@ -153,14 +157,15 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 ![image](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/e9c9db00-bcce-47a9-a801-971253712b72)
 
 
+### Uploaded Files on Google Colab
+
+1. [File 1: Deadlock_game_implementation](https://colab.research.google.com/drive/1S8gOBzfVUBjwtakFtlvNsKhpv6T7OQ1T#scrollTo=rmdgkT2MmxD5)
+   
+
+2. [File 2: Applying_GameTheory__Strategies](https://colab.research.google.com/drive/1ptIEO5FeJRCui0YPl40zJcoodFh9WCAf)
+
+3. [File 3: Payoff_Analysis](https://colab.research.google.com/drive/1ZwJdYc5Zd67dv5M1ZViOTIQec8ufIxMl)
+
+4. [File 4: Deadlock_Principles_Analysis ](https://colab.research.google.com/drive/1-HlL50RRA1l9hhVhKn8yb8KNN8s5sx1I)
 
 
-here we uploaded 4 colab files the order of exceution of file is:
-
-  Deadlock_game_implementation
-  
-  Applying_GameTheory__Strategies
-  
-  Payoff_Analysis
-  
-  Deadlock_Principles_Analysis
