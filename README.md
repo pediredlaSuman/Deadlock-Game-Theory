@@ -110,6 +110,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Rewards cooperative behavior and penalizes defection.
 - Demonstrates repercussions of non-cooperation through retribution.
 - Adjusts between cooperation and retaliation as needed.
+
+  
 ![samp3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/15582da4-b04b-41c8-b2c3-85b8e75837ea)
 
 
@@ -119,6 +121,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Outlines penalties for malfunctioning as retaliation against defection.
 - Encourages collaboration and trust by mirroring opponent's actions.
 - Responds predictably to opponent's actions.
+
+  
 ![fred3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/7e074639-3f37-4159-aa28-b2241b7f4ce1)
 
 #### Tit for Tat Strategy:
@@ -126,6 +130,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Acts cooperatively in return for cooperation.
 - Mirrors opponent's move in retaliation to defection.
 - Adjusts behavior to preserve stability and balance.
+
+
 ![tit](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/a9a46655-047d-42a0-b385-9fff35859de1)
 
 #### Joss Sneaky Strategy:
@@ -133,6 +139,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Gains strategic advantage by creating ambiguity and confusion.
 - Modifies behavior to take advantage of opponent's actions.
 - Increases unpredictability through deceit.
+
+  
 ![joss3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/009e9d6b-92f4-4a55-b925-189a779c0d97)
 
 #### Graaskamp Strategy:
@@ -140,6 +148,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Defects periodically to increase profit.
 - Uses hybrid defection and cooperation for tactical advantage.
 - Modifies tactics based on player reactions.
+
+  
 ![grass3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/a9f8d19e-f7f2-4282-b6b9-7de503b4b193)
 
 #### Tester Strategy:
@@ -147,6 +157,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Modifies plan based on opponent's actions.
 - Reacts with cooperation or defection based on opponent's behavior.
 - Adjusts defection timing for maximum reward.
+
+  
 ![tester3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/eb82c2d4-7d3e-4bee-afcb-11d3732242e6)
 
 #### Always Cooperative Strategy:
@@ -160,6 +172,8 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Acts cooperatively toward opponent.
 - Forgives opponent's sporadic defections.
 - Strikes balance between forgiveness and reciprocity.
+
+
 ![geene3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/38b10a9c-f86d-4ea6-a02c-25eae042c038)
 
 ---
