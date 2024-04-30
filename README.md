@@ -46,7 +46,7 @@ In this matrix:
 - If one player cooperates while the other defects, the cooperator receives a payoff of 0, and the defector receives a payoff of 1.
 - If both players defect, they each receive a payoff of 0.
 ---
-### Deadlock Game Overview
+### DeadlockGameOverview
 
 #### Key Points:
 - **Number of Players:** 2
