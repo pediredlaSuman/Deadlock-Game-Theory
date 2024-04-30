@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
 2. [Game Representations](#gameRepresentations)
 3. [Deadlock Game Overview](#deadlockGameOverview)
-4. [Principles Used](#principlesUsed)
+4. [Principles](#principles)
 5. [Framework](#framework)
 6. [Strategies](#strategies)
 7. [Results](#results)
@@ -56,7 +56,7 @@ In this matrix:
 - **Zero-Sum Game:** No
   
 ---
-### Principles Used 
+### Principles
 
 #### Rational Decision-Making:
 Is fundamental in game theory, emphasizing selfish behavior to maximize utility. It clarifies strategic reasoning in impasse scenarios, aiding in anticipating and reacting to actions.
@@ -75,6 +75,17 @@ Play crucial roles in resolving deadlocks. Cooperative strategies entail collabo
 
 #### Bargaining and Negotiation:
 Are essential for resolving deadlocks, allowing parties to reach agreements. Modeled by game theory, they consider variables like bargaining power and commitment tactics. Understanding these dynamics promotes collaboration and win-win solutions.
+
+---
+### Framework
+
+1. **Initiation**: Define parameters such as the number of players, strategies, and payoff matrix structure.
+2. **Strategic Interactions**: Analyze the challenges of balancing cooperation and self-interest in strategic interactions.
+3. **Conflict Resolution**: Explore methods for resolving conflicts and achieving mutual benefits in competing interest scenarios.
+4. **Cooperation Dynamics**: Investigate factors influencing cooperation preferences among players.
+5. **Decision-Making Complexity**: Address the complexity of decision-making processes, especially in achieving optimal outcomes.
+6. **Real-World Application**: Apply insights to practical domains like economics, politics, and social dynamics.
+7. **Conclusion**: Summarize key findings, implications, and future research directions in deadlock game theory.
 
 
 ---
