@@ -17,19 +17,19 @@
 ---
 ### Introduction
 
-#### **Conceptual Framework**: 
+#### Conceptual Framework: 
 Explain deadlock games as situations where cooperation clashes with self-interest, highlighting their complexity compared to zero-sum games.
 
-#### **Strategic Dynamics**: 
+#### Strategic Dynamics: 
 Explore the dynamics of deadlock games, including the two-player structure, multiple options .
 
-#### **Principles** : 
+#### Principles: 
 Usage of Rational Decision Making Principle,Strategic Interactions Principle , Pay-Off Principle , Bargaining and Negotiation Principle .
 
-#### **Resolution Strategies**: 
+#### Resolution Strategies: 
 Discuss strategies like appreciative moves, process moves, and power moves used to break deadlock situations and promote productive collaboration.
 
-#### **Implications and Goals**: 
+#### Implications and Goals: 
 Highlight the broader implications of deadlock game theory for decision-making, societal dynamics, economic behavior, and conflict resolution.
 
 
