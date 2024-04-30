@@ -1,9 +1,16 @@
+**Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
+
+
+
+
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 
 <a id="introduction"></a>
 ### Introduction
+---
+This is the introduction to my project.
 
 Introduction:
 - Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
