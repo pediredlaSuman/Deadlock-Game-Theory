@@ -44,21 +44,7 @@ In this matrix:
 - **Total Strategies:** 4
 - **Sequential Game:** No
 - **Zero-Sum Game:** No
-
-### Principles Used 
----
-#### 1. Rational Decision Making
-Rational decision making assumes that players in the deadlock game act in their own self-interest, aiming to maximize their expected payoff. Each player evaluates the available strategies and chooses the one that offers the highest payoff based on their preferences and beliefs about the other player's behavior.
-
-#### 2. Strategic Interactions
-Deadlock game theory involves strategic interactions between two or more rational decision-makers. Each player's choice of strategy depends not only on their own preferences but also on their anticipation of the other player's actions. Players strategize by considering how their choices may influence the outcomes and payoffs of the game.
-
-#### 3. Nash Equilibrium
-Nash equilibrium is a key concept in deadlock game theory, representing a stable state where no player has an incentive to unilaterally deviate from their chosen strategy. In a Nash equilibrium, each player's strategy is optimal given the strategies chosen by the other players. The deadlock game may have multiple Nash equilibria, and identifying them helps predict the likely outcomes of strategic interactions.
-
-#### 4. Pay-Off Matrix
-The pay-off matrix is a fundamental tool in deadlock game theory used to represent the possible outcomes and payoffs associated with each combination of strategies chosen by the players. It provides a systematic way to analyze strategic interactions and evaluate the consequences of different decision-making scenarios. The pay-off matrix helps players assess the benefits and risks of their strategic choices.
-
+  
 ---
 ### Principles Used 
 
@@ -81,9 +67,9 @@ Play crucial roles in resolving deadlocks. Cooperative strategies entail collabo
 Are essential for resolving deadlocks, allowing parties to reach agreements. Modeled by game theory, they consider variables like bargaining power and commitment tactics. Understanding these dynamics promotes collaboration and win-win solutions.
 
 
-
-### Strategies Used in Deadlock Game Theory
 ---
+### Strategies Used in Deadlock Game Theory
+
 #### Sample Strategy:
 - Starts cooperatively to promote cooperation.
 - Retaliates against defection but resumes collaboration for cooperation.
@@ -142,9 +128,9 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 - Strikes balance between forgiveness and reciprocity.
 ![geene3](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/38b10a9c-f86d-4ea6-a02c-25eae042c038)
 
-
-### Results
 ---
+### Results
+
 
 
 
