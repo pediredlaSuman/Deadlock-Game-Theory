@@ -6,12 +6,12 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [GameRepresentations](#gameRepresentations)
-3. [Deadlock Game Overview](#dead-lock-GameOverview)
+3. [DeadlockGameOverview](#deadlockGameOverview)
 4. [Principles](#principles)
 5. [Framework](#framework)
 6. [Strategies](#strategies)
 7. [Results](#results)
-8. [Google Colab Files](#google-colab-files)
+8. [GoogleColabFiles](#googlecolabfiles)
 
 
 ---
@@ -168,7 +168,7 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 ![image](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/e9c9db00-bcce-47a9-a801-971253712b72)
 
 
-### Uploaded Files on Google Colab
+###  GoogleColabFiles
 
 1. [File 1: Deadlock_game_implementation](https://colab.research.google.com/drive/1S8gOBzfVUBjwtakFtlvNsKhpv6T7OQ1T#scrollTo=rmdgkT2MmxD5)
    
