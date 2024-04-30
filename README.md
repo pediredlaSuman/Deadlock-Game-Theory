@@ -1,50 +1,18 @@
 ### Table of Contents
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
+<a id="introduction"></a>
+### Introduction
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Introduction:
 - Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
 - Our research explores these dynamics by applying the ideas of strategic interactions and logical decision-making to investigate the best possible solutions.
 - To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
-- 
+
+
+<a id="installation"></a>
+Installation
   Strategies used here are: Tit for Tat Strategy, Generous Tit for Tat, Sample Strategy, Friedman Strategy, Grasskamp Strategy, Joss Sneaky Strategy, Always Cooperative , Tester Strategy
   
   Prinicples:Rational Decision-Makin, Strategic Interactions, Payoff Matrix, Nash Equilibrium, Cooperative and non-cooperative strategies, Bargaining and Negotiation
