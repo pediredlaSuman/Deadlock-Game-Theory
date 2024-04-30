@@ -1,3 +1,46 @@
+### Table of Contents
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Game theory-based deadlock games show situations in which self-interest collides with cooperation, offering complex strategic difficulties.
 - Our research explores these dynamics by applying the ideas of strategic interactions and logical decision-making to investigate the best possible solutions.
 - To find winning strategies based on payoff analysis and success qualities, a variety of strategies, including Tit for Tat and Always Cooperative, are analyzed.
@@ -17,6 +60,7 @@
 Winning Strategy order:
 
 ![rest](https://github.com/pediredlaSuman/Deadlock-Game-Theory/assets/141764451/93fca77b-99a2-4ff2-bb19-d8e95cdcc686)
+
 here we uploaded 4 colab files the order of exceution of file is:
 
   Deadlock_game_implementation
