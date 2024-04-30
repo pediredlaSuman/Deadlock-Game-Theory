@@ -5,7 +5,7 @@
 
 ### Table of Contents
 1. [Introduction](#introduction)
-2. [Game Representations](#gameRepresentations)
+2. [GameRepresentations](#gameRepresentations)
 3. [Deadlock Game Overview](#deadlockGameOverview)
 4. [Principles](#principles)
 5. [Framework](#framework)
@@ -23,7 +23,7 @@
   
 ---
 
-### Game Representations
+### GameRepresentations
 
 #### **Players**:who are decision makers
 - People? Governments? Companies? Somebody employed by a Company?
