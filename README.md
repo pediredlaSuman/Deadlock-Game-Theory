@@ -1,4 +1,3 @@
-
 ### Deadlock Game Theory
 ---
 **Game theory** is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers. Game theory is mainly used in economics, political science, and psychology, as well as logic, computer science and biology.
@@ -14,7 +13,7 @@
 
 ---
 ### Game Representations
----
+
 #### **Players**:who are decision makers
 - People? Governments? Companies? Somebody employed by a Company?
 
@@ -37,14 +36,14 @@ In this matrix:
 - If both players defect, they each receive a payoff of 0.
 ---
 ### Deadlock Game Overview
----
+
 #### Key Points:
 - **Number of Players:** 2
 - **Strategies per Player:** 2
 - **Total Strategies:** 4
 - **Sequential Game:** No
 - **Zero-Sum Game:** No
----
+
 ### Principles Used 
 ---
 #### 1. Rational Decision Making
@@ -80,7 +79,7 @@ Play crucial roles in resolving deadlocks. Cooperative strategies entail collabo
 Are essential for resolving deadlocks, allowing parties to reach agreements. Modeled by game theory, they consider variables like bargaining power and commitment tactics. Understanding these dynamics promotes collaboration and win-win solutions.
 
 
----
+
 ### Strategies Used in Deadlock Game Theory
 ---
 #### Sample Strategy:
