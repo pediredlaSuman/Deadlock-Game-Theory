@@ -11,8 +11,7 @@
 5. [Framework](#framework)
 6. [Strategies](#strategies)
 7. [Results](#results)
-8. [Real life applications](#reallifeapplications)
-9. [Google Colab Files](#google-colab-files)
+8. [Google Colab Files](#google-colab-files)
 
 
 ---
@@ -79,7 +78,7 @@ Are essential for resolving deadlocks, allowing parties to reach agreements. Mod
 
 
 ---
-### Strategies Used in Deadlock Game Theory
+### Strategies
 
 #### Sample Strategy:
 - Starts cooperatively to promote cooperation.
